@@ -8,3 +8,5 @@ Simply compile the GUI.java class, and run it! Then, and type in the info reques
 All mathematical expressions are written inside of two `/!` strings. Example: `/! logic here /!`. The message number (starts at 0) is represented by the character `i`. 
 
 Example: To multiply the current chat message number by 5, type in `Current message number times 5 is /!i*5/!`.
+
+Another Example: To calculate the cosine of the current message number, type in `Cosine of current message number is /!Math.cos(i);/!`. Other functions in JavaScript also should work there, including sin, tan, and most others.
