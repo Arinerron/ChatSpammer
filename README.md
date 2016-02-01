@@ -12,3 +12,6 @@ Example: To multiply the current chat message number by 5, type in `Current mess
 Another Example: To calculate the cosine of the current message number, type in `Cosine of current message number is /!Math.cos(i);/!`. Other functions in JavaScript also should work there, including sin, tan, and most others.
 
 Yet Another Example: To display pi multiplied by the current message number, try `Pi times current message number is /!Math.PI*i/!`
+
+## Found a bug?
+Great! It'd be amazing if you could report it in the issues section! Thanks a lot!
